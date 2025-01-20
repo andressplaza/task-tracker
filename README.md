@@ -118,6 +118,14 @@ This will show you how the command should be used.
 
 ---
 
+🌐 Roadmap
+
+For more information on the development roadmap and upcoming features, check out our roadmap:
+
+[Task Tracker Roadmap](https://roadmap.sh/projects/task-tracker)
+
+---
+
 ## 🤝 Contributing
 
 If you want to contribute to this project, feel free to fork it, create a new branch, make changes, and submit a pull request. Please ensure that your code is well-tested.
